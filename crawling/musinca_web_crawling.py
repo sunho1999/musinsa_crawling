@@ -10,7 +10,6 @@ html = request.text.strip()
 #HTML 소스코드를 파이썬 객체로 변환합니다.
 soup = BeautifulSoup(html,'html.parser')
 
-
 #<p>태그 포함하는 요소를 추출합니다.
 divs = soup.findAll('p', {"class":"list_info"})
 
