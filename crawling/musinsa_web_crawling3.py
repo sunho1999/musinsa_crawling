@@ -44,4 +44,6 @@ total = {}
 for i in range(len(subjects)):
     total[subjects[i]] = price[i]
 
-print(total)
+for i in range(len(subjects)):
+    print("품목: ",subjects[i])
+    print("가격: ",price[i],"원")
