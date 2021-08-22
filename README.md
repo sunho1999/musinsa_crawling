@@ -1,15 +1,15 @@
 # musinsa_crawling
 - - -
-<img src = " https://user-images.githubusercontent.com/80037682/130352916-d6fe6d9e-9ccf-4372-a57a-44bf87cb68a7.png" img width="500px" height="200px" >
+<img width="600" alt="스크린샷 2021-08-22 오후 8 26 51" src="https://user-images.githubusercontent.com/80037682/130353346-645863d7-8e1e-4f50-bc42-4fa906240844.png">
 
 무신사의 각 브랜드 상품 데이터 크롤링 후 시각화하기
 - - -
-##프로젝트 목적
+## 프로젝트 목적
     
  무신사에는 다양한 브랜드들을 모아놓은 편집샾인데 원하고자 하는 브랜드의 가격과 상품,이미지 등을  
  가져와 각 브랜드들의 평균가를 비교하여 보다 가격이 저렴한 브랜드를 찾고자 시작했습니다.
 - - -
-##단계별 접근
+## 단계별 접근
 **1. 웹 크롤링 하기**  
 * BeautifulSoup 와 requests 라이브러리를 사용합니다.
 
