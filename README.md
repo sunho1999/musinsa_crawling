@@ -47,7 +47,7 @@
 
 <img width="337" alt="스크린샷 2021-08-23 오후 8 52 58" src="https://user-images.githubusercontent.com/80037682/130444779-01dba56c-c065-4843-8a5d-7fbe1b27b8f5.png">
 
->이때 표준 평균 값은 각 브랜드이 품목별로 90개 값을 가져와 평균화 한것입니다.
+>이때 표준 평균 값은 각 브랜드의 품목별로 90개 값을 가져와 평균화 한것입니다.
 
 ## 데이터프레임 시각화하기
 <img width="1193" alt="스크린샷 2021-08-23 오후 8 52 42" src="https://user-images.githubusercontent.com/80037682/130442864-53952f14-278d-4773-a1f2-cc25fc76ecc4.png">
