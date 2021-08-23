@@ -29,7 +29,22 @@
 이 중에서 내가 원하고자 하는 브랜드들의 html주소를 parsing하여 각 브랜드의 품목별 평균가를 excel파일로 저장합니다.
 ~~~
 
-  
+### 웹 크롤링한 브랜드 사이트
+<center>
 
+[thisisneverthat](https://display.musinsa.com/display/brands/thisisneverthat?category3DepthCodes=&category2DepthCodes=&category1DepthCode=&colorCodes=&startPrice=&endPrice=&exclusiveYn=&includeSoldOut=&saleGoods=&timeSale=&includeKeywords=&sortCode=3m&tags=&page=1&size=90&listViewType=small&campaignCode= "디스이즈네버뎃")    
+[covernat](https://display.musinsa.com/display/brands/covernat?category3DepthCodes=&category2DepthCodes=&category1DepthCode=&colorCodes=&startPrice=&endPrice=&exclusiveYn=&includeSoldOut=&saleGoods=&timeSale=&includeKeywords=&sortCode=3m&tags=&page=1&size=90&listViewType=small&campaignCode= "커버낫")  
+[musinsastanddard](https://display.musinsa.com/display/brands/musinsastandard?category3DepthCodes=&category2DepthCodes=&category1DepthCode=&colorCodes=&startPrice=&endPrice=&exclusiveYn=&includeSoldOut=&saleGoods=&timeSale=&includeKeywords=&sortCode=3m&tags=&page=1&size=90&listViewType=small&campaignCode= "무신사스탠다드")
+</center>
 
+## 각 브랜드의 상의,아우터,하의 평균값을 데이터프레임화하기
+
+<img width="337" alt="스크린샷 2021-08-23 오후 8 52 58" src="https://user-images.githubusercontent.com/80037682/130444779-01dba56c-c065-4843-8a5d-7fbe1b27b8f5.png">
+
+## 데이터프레임 시각화하기
+<img width="1193" alt="스크린샷 2021-08-23 오후 8 52 42" src="https://user-images.githubusercontent.com/80037682/130442864-53952f14-278d-4773-a1f2-cc25fc76ecc4.png">
+
+## 데이터 시각화 후 분석
+* 전체적으로 상의,하의,아우터 중 아우터 > 하의 > 상의 순으로 가격이 측정되었다.
+* 특정 3가지 브랜드를 따져봤을 때 'musinsastandard' 라는 브랜드의 평균가가 제일 낮았다.
 
